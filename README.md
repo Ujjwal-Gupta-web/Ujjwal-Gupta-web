@@ -1,4 +1,4 @@
-### Hey there 👋 , Welocme
+### Hey there 👋 
 
 **About Me**
 
