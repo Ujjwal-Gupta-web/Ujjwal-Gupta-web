@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**About Me**
+
 - 🌱 I aspire to gain knowledge and improve myself to build quality products.
 - 🌱 I get inspired by the power of tech, that how it creates a difference.
 
