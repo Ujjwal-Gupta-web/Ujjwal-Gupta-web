@@ -6,7 +6,7 @@
 
 - 👯 I get inspired by the power of tech, that how it creates a difference.
 
-- 👯 I am looking forward to build or contribute in web apps.
+- 🔭 I am looking forward to build or contribute in web apps.
 
 - 😄 I am interested in : Web , Mobile development , Cloud , ML.
 
