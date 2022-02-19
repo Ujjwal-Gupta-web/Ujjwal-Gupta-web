@@ -8,7 +8,7 @@
 
 - 🔭 I am looking forward to build or contribute in web apps.
 
-- 😄 I am interested in : Web , Mobile development , Cloud , ML.
+- 😄 I am interested in : Web development , Cloud , ML.
 
 - 📫 How to reach me: https://www.linkedin.com/in/ujjwal-gupta-65966a1b2/
 
